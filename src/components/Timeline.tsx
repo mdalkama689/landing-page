@@ -4,8 +4,8 @@ function Timeline() {
   return ( 
 <div className="bg-gray-400">
     <h1 className="text-center text-[#f08739] pt-6 font-semibold text-5xl">Our Approach to Team Building</h1>
-<p className=" text-center mt-3 text-blue-800">BrightVision’s team building services in Saudi Arabia are designed to foster teamwork, build trust, and promote open</p>
-<p className=" text-center  text-blue-800">communication among team members. Here’s how we do it:</p>
+<p className=" text-center mt-3 text-blue-800">BrightVision&amp;apos;s team building services in Saudi Arabia are designed to foster teamwork, build trust, and promote open</p>
+<p className=" text-center  text-blue-800">communication among team members. Here&amp;#x27;s how we do it:</p>
     <TimelineComponent />
 </div>
   );
